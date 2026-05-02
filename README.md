@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 **3. Launch the notebook**
 ```bash
-jupyter notebook IS6052_IndividualAssignment_AiymanMohammed.ipynb
+jupyter notebook Housing_PricesIndividualAssignment_AiymanMohammed.ipynb
 ```
 
 > Make sure `Ireland_House_Price_Final.csv` is in the same directory as the notebook before running.
